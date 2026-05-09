@@ -1,0 +1,92 @@
+/*comment change background colour
+#welcome {
+    background-color: green;
+    opacity: 0.5;
+}
+
+.heading{
+    
+}
+
+* {
+    color: purple;
+}
+
+h1 {
+    color: pink;
+}
+
+p{
+    color: pink;
+}
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRxrolM1aZZltMcta_adUtghfpNgNg-dm-WP69XOHZxj8zb2OrypFhiuQX9ZKIYcJbF4N1FqjQbiwX-s2KwgCJmNDk&s=1");
+
+}
+
+p{
+    margin:200px;}
+
+border
+
+h1 {
+    border-style: solid;
+    border-width: thick;
+    border-color: aqua;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+}
+    */
+
+/*padding- space on left top bottom right*/
+
+/*height and width*/
+
+/*outline*/
+
+/*text*/
+
+body {
+
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    
+
+}
+
+/*fonts
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: larger;
+}
+*/
+/*icons*/
+
+/*tables*/
+
+table, th, td {
+    border: 2px solid;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th{
+    height: 50px;
+    padding: 10px;
+}
+
+tr:hover {
+    background-color: blue;
+
+}
+
+.dropdownbutton {
+    background-color: aqua;
+    color: rgb(255, 255, 255);
+    
+}
+
